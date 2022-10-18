@@ -1,5 +1,9 @@
 <div align="center">
 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihye-byun-586a4b1a4/)](https://www.linkedin.com/in/jihye-byun-586a4b1a4/)
+</div>
+<div align="center">
+
 ![codewars](https://www.codewars.com/users/wisdom08/badges/small) 
 </div>
 
