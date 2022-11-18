@@ -3,10 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihye-byun-586a4b1a4/)](https://www.linkedin.com/in/jihye-byun-586a4b1a4/)
  [![Resume Badge](https://img.shields.io/badge/-Resume-orange?style=flat-square&logo=RESUME&logoColor=white&link=https://lifelong-learner.notion.site/4a16016fd6e64c1596663ccd495e93d5/)](https://lifelong-learner.notion.site/4a16016fd6e64c1596663ccd495e93d5/)
 </div>
-<div align="center">
 
-![codewars](https://www.codewars.com/users/wisdom08/badges/small) 
-</div>
 
 <div align="center">
 
@@ -24,12 +21,9 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
  
 </p>
-<div align="center">
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wisdom08)](https://velog.io/@wisdom08) 
-</div>
 
 
+<br>
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwisdom08&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -39,6 +33,18 @@
 
 
 <!--
+
+<div align="center">
+
+![codewars](https://www.codewars.com/users/wisdom08/badges/small) 
+</div>
+
+<div align="center">
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wisdom08)](https://velog.io/@wisdom08) 
+</div>
+
+
 <div align=center><h1> 스테디 </h1></div>
 **wisdom08/wisdom08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
