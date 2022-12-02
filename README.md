@@ -1,8 +1,4 @@
-<div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihye-byun-586a4b1a4/)](https://www.linkedin.com/in/jihye-byun-586a4b1a4/)
- [![Resume Badge](https://img.shields.io/badge/-Resume-orange?style=flat-square&logo=RESUME&logoColor=white&link=https://lifelong-learner.notion.site/4a16016fd6e64c1596663ccd495e93d5/)](https://lifelong-learner.notion.site/4a16016fd6e64c1596663ccd495e93d5/)
-</div>
 
 
 <div align="center">
@@ -12,6 +8,7 @@
 </div>
 
 <p align="center">
+ <img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
@@ -92,5 +89,11 @@ Here are some ideas to get you started:
 <div align="center">
 
 <h3 align="center">👩‍💻 Github Stats 👩‍💻</h3>
+
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihye-byun-586a4b1a4/)](https://www.linkedin.com/in/jihye-byun-586a4b1a4/)
+ [![Resume Badge](https://img.shields.io/badge/-Resume-orange?style=flat-square&logo=RESUME&logoColor=white&link=https://lifelong-learner.notion.site/4a16016fd6e64c1596663ccd495e93d5/)](https://lifelong-learner.notion.site/4a16016fd6e64c1596663ccd495e93d5/)
+</div>
 
 -->
